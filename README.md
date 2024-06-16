@@ -52,7 +52,7 @@ The expected behaviour of these endpoints is:
 If you have any questions about the above behaviour, please reach out to ask.
 
 **Note**
-- Data storage may be entirely in memory. The is not need to configure a database to persist data between requests.
+- Data storage may be entirely in application memory. There is no need to configure a database to persist data between requests.
 - Please consider the time and space complexity of your implementation if a large number of votes are submitted.
 
 ### Validating your Implementation
